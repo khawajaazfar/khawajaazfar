@@ -1,6 +1,6 @@
 <h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
 <h2>💫 About Me: </h2><br>
-🎓 A Graduate with a Bachelor of Science in Software Engineering.<br>
+🎓 I'm a first-year MSDS student at Information Technology University. Before ITU, I completed my Bachelor in Software Engineer at m Lahore Garrison University. Where I worked with Prof. Rafaqat Alam Khan , in Computer Vision on Panoramic X-Rays.<br>
 🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.<br>
 📚 Nowadays doing Research in Medical Image Processing and Multimodel LLM's.<br>
 💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.<br>
