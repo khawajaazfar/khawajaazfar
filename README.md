@@ -1,10 +1,10 @@
 <h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
 <h2>💫 About Me: </h2><br>
-🎓 I'm a first-year MSDS student at Information Technology University. Before ITU, I completed my Bachelor in Software Engineer at m Lahore Garrison University. Where I worked with Prof. Rafaqat Alam Khan , in Computer Vision on Panoramic X-Rays.<br>
-🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.<br>
-📚 Nowadays doing Research in Medical Image Processing and Multimodel LLM's.<br>
+🎓 I'm a first-year MSDS student at Information Technology University(ITU). Before ITU, I completed my Bachelor's in Software Engineering at m Lahore Garrison University. Where I worked with Prof. Rafaqat Alam Khan on Computer Vision for Panoramic X-Rays.<br>
+🌇 Lahore Native, passionate about creating community and connecting like-minded people, which helps them develop social and communication skills.<br>
+📚 Nowadays, I am doing Research in Medical Image Processing and multimodal LLMs.<br>
 💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.<br>
-🏔 I like to walk in nature and visit Cinema once a month to refresh myself.<br>💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.
+🏔 I like to walk in nature and visit the cinema once a month to refresh myself.<br>💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.
 
 
 ## 🌐 Socials:
